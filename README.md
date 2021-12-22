@@ -4,7 +4,7 @@ This is the README file of our final year "Netbanking Project". The name is not 
 **Important** Complete almost 50% of the project by February 2022. 
 
 ### What you should do?
-- Fork this repo and make further changes in your repo
+- Fork this repo and make further changes in your forked repo in your account
 - Develop the respective workspaces as instructed
 - Regular meet up and describe your workflow and progress for each day. <a href="https://meet.google.com/iqb-xqah-eks">Meeting link</a>  
 - Communicate and collaborate with other members regarding problems
