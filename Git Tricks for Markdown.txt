@@ -1,0 +1,83 @@
+	HEADINGS
+ # heading 1	- functions as <h1> tag of HTML
+## heading2	- functions as <h2> tag of HTML
+.
+.
+###### heading6	- functions as <h6> tag of HTML
+
+TEXT FORMATTING
+Normal text
+**Bold text**
+*Italic text*
+~~strikethrough text~~
+
+LISTS
+   UNORDERED LIST
+	-Item 1
+	-Item 2
+	-Item 3
+   ORDERED LIST
+	1. Item 1
+	1. Item 2
+	1.Item 3
+
+CHECKBOXES
+-[ ] Item1 imcomplete
+-[x] Item 2 complete
+
+ADDING HYPER LINKS
+[Text to be displayed as linkable] (The link)
+
+DISPLAYING IMAGES
+![The alt text](The link of the image to be shown)
+
+USING TABLES
+|column1|column2|	//Column name
+|:---|---:|		//Used for alignment :--- for the left alignment ---: for the right alignment. Also column width will change relative to the data entered
+|row1|row2|	//data to be filled in columns
+
+CODE BLOCKS** (Important to show the the blocks to stand out in Pull request)
+this is a `code block`	//creates a grey block around the text within ` `
+
+ A BIGGER CODE BLOCK WITH HIGHLIGHTING
+```(mention the language and specific code shall be highlighted)
+text in between
+```
+Eg: 
+```java
+System.out.println("hello world");
+```
+BEST CODE HIGHLIGHTING
+
+```diff
+-text removed
++text added
+```
+Eg:
+```diff
+-const a=0		this block shall be highlighted in red as it removed
++const a=10	this block shall be highlighted in green as it added
+```
+
+REPLYING TO OTHER PEOPLE
+Eg: I have 1 idea ........ and another one
+
+So make the reply like this to make it like whatsapp
+>I have 1 idea ........ 	(highlightes this in grey)
+	Your answer
+> another one 	(highlights in grey)
+	Your answer
+
+ADDING TAGS AND IN PR's
+tag (the current postion of the PR) eg: closed OR fixed
+and next add the issue number with # (eg: #393232)
+
+eg: 
+fixed #13655
+
+description:
+
+IMPORTANT TIP 
+If you are not sure about your PR, then create the PR into a draft and put in the reviews section and ask for suggestions. It is a lot better to take up questions and suggestions in draft than after merging the PR
+
+
