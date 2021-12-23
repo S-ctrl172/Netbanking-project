@@ -15,7 +15,7 @@ Write down your daily tasks and by the end of the day mark is as done or not don
 
 ###  First work (23 December)
 Choose pages from For different pages. 
--[ ] Done
+- [ ] Done
 
 #### 23/12/2021
 - [ ] Check out the template 
