@@ -14,6 +14,6 @@ This is the README file of our final year "Netbanking Project". The name is not 
 Write down your daily tasks and by the end of the day mark is as done or not done
 
 #### 23/12/2021
-- [] Check out the template 
+- [ ] Check out the template 
 - [x] Mark as  done 
 
